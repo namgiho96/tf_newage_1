@@ -69,8 +69,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/seoul_cctv/pop.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="361">
+              <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -299,15 +299,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554771467641</updated>
-      <workItem from="1554771468894" duration="20002000" />
+      <workItem from="1554771468894" duration="21416000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20002000" />
+    <option name="totallyTimeSpent" value="21416000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18701799" />
@@ -338,7 +339,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/newage_giho2$samsung_report.coverage" NAME="samsung_report Coverage Results" MODIFIED="1554790389275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/text_mining" />
     <SUITE FILE_PATH="coverage/newage_giho2$us_unemployment.coverage" NAME="us_unemployment Coverage Results" MODIFIED="1554792836520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/folium_test" />
-    <SUITE FILE_PATH="coverage/newage_giho2$pop.coverage" NAME="pop Coverage Results" MODIFIED="1554797754743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/seoul_cctv" />
+    <SUITE FILE_PATH="coverage/newage_giho2$pop.coverage" NAME="pop Coverage Results" MODIFIED="1554800098892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/seoul_cctv" />
     <SUITE FILE_PATH="coverage/newage_giho2$movie_rank.coverage" NAME="movie_rank Coverage Results" MODIFIED="1554780152724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webcrawl" />
     <SUITE FILE_PATH="coverage/newage_giho2$kospi.coverage" NAME="kospi Coverage Results" MODIFIED="1554775134296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webcrawl" />
     <SUITE FILE_PATH="coverage/newage_giho2$naver_stock.coverage" NAME="naver_stock Coverage Results" MODIFIED="1554773076131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webcrawl" />
@@ -424,8 +425,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/seoul_cctv/pop.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="361">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
         </state>
       </provider>
     </entry>
