@@ -4,7 +4,6 @@ import folium
 ctx = '../data/'
 json = ctx+'us-states.json'
 csv = ctx+'US_Unemployment_Oct2012.csv'
-
 data = pd.read_csv(csv)
 
 m = folium.Map(location=[37, -102], zoom_start=5)
